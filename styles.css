@@ -1,0 +1,94 @@
+
+.searchbar {
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+.form-div{
+    display: block;
+}
+
+#searchbar {
+    display: flex;
+    height: 44px;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 600px;
+    max-width: 584px;
+    margin-top: 100px;
+}
+
+#button {
+    margin: 0 auto;
+    height:25px;
+    margin-top: 10px;
+}
+
+.button-div{
+    display: block;
+}
+
+.button-color{
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+    border: 1px solid #3079ed;
+    color: #fff;
+    font-weight: bold;
+}
+
+.links {
+    display: block;
+    text-align: right;
+    right: 0px;
+}
+
+.nav {
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle;
+    color: rgba(0,0,0,.87);
+    text-decoration: none;
+}
+
+.nav:hover {
+    text-decoration: underline;
+    color: rgba(0,0,0,.87);
+}
+
+.a_div {
+    text-align: left;
+}
+
+.a_div > input {
+    align-content: right;
+}
+
+.input_a {
+    margin-top: 70px;
+}
+
+.normal-button {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
